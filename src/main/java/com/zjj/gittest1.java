@@ -5,5 +5,7 @@ public class gittest1 {
         System.out.println("master frist commit!");
         System.out.println("hot-fix frist commit");
         System.out.println("push test");
+        System.out.println("pull test");
+
     }
 }
